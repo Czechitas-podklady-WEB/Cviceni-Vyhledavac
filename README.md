@@ -6,7 +6,7 @@
 
 1. Vytvořte HTML formulář s jedním input políčkem na text s atributem `name="q"` a odesílacím tlačítkem.
 
-1. Pomocí atributu action nechte formulář odesílat data na adresu `https://www.google.com/search`.
+1. Pomocí atributu `action` nechte formulář odesílat data na adresu `https://www.google.com/search`.
 
 1. Vyzkoušejte s vaším formulářem něco vyhledat na internetu.
 
